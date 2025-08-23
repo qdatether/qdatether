@@ -1,4 +1,4 @@
-# 💰 Nguyen Pham Quoc Dat
+# 📈 Nguyen Pham Quoc Dat
 
 **`Investment Economics`**
 

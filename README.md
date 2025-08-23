@@ -2,7 +2,7 @@
 
 **`Investment Economics`**
 
-Hi, I’m **Nguyen Pham Quoc Dat**, 19 years old and a student at **UEH**.
+Hi, I’m **Nguyen Pham Quoc Dat**, 19 years old and a student at **University of Economics Ho Chi Minh City (UEH)**.
 I’m interested in finance and investing and I’m learning **Python** to build mini data-analysis projects in economics.
 On this GitHub, I keep my exercises and notes — feedback is always welcome!
 

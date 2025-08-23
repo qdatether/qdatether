@@ -1,3 +1,12 @@
+# 💰 Nguyen Pham Quoc Dat
+
+**`Investment Economics`**
+
+Hi, I’m **Nguyen Pham Quoc Dat**, 19 years old and a student at **UEH**.
+I’m interested in finance and investing and I’m learning **Python** to build mini data-analysis projects in economics.
+On this GitHub, I keep my exercises and notes — feedback is always welcome!
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qdat0208) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@DatKenshina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:datnguyen.31231026641@st.ueh.edu.vn) 
 
